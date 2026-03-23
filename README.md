@@ -54,7 +54,7 @@ The repository is organized into modular sections, each representing a phase of 
 ## Installation
 
 ```
-unzip red-ops.zip
+unzip red-notes.zip
 npm install
 npm run dev
 ```
